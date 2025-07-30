@@ -38,6 +38,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimajifajarromadhon&layout=compact&theme=tokyonight)
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimajifajarromadhon&show_icons=true&theme=tokyonight)
-
 ---
