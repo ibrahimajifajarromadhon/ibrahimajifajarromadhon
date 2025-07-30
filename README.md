@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Aji Fajar Romadhon</h1>
-<p align="center">Full Stack Developer</p>
+<p align="center">I'am want to be a Full Stack Developer</p>
 
 <p align="center">
   <a href="https://ibrahimajifajarr.vercel.app/" target="_blank">🔗 My Portfolio</a>
@@ -8,6 +8,7 @@
 ---
 
 ### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibrahimaji.fajar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-aji-fajar-r)
 
 ---
